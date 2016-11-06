@@ -1,0 +1,19 @@
+{
+  "name": "wop",
+  "description": "",
+  "version": "0.0.0",
+  "bugs": {
+    "url": "https://github.com/mkwtys/wop/issues"
+  },
+  "homepage": "https://github.com/mkwtys/wop#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkwtys/wop.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
